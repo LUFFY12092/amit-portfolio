@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>AMIT | Portfolio</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background-color: #673ab7;
+      color: white;
+      padding: 2rem 1rem;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    header p {
+      font-size: 1.2rem;
+      margin-top: 0.5rem;
+    }
+    section {
+      padding: 2rem;
+      max-width: 900px;
+      margin: auto;
+    }
+    h2 {
+      color: #673ab7;
+      margin-bottom: 1rem;
+    }
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    li {
+      background: #e0e0e0;
+      margin: 0.5rem 0;
+      padding: 1rem;
+      border-radius: 8px;
+    }
+    .btn {
+      display: inline-block;
+      margin-top: 1.5rem;
+      padding: 0.75rem 1.5rem;
+      background-color: #673ab7;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+    .btn:hover {
+      background-color: #5e35b1;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background-color: #f1f1f1;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>AMIT</h1>
+    <p>Freelancer | Data Entry | Python Automation | AI Tools</p>
+  </header>
+
+  <section>
+    <h2>👋 About Me</h2>
+    <p>
+      I'm AMIT, a dedicated freelancer who helps clients automate their work, manage data efficiently, and utilize the power of AI tools to boost productivity. Whether it's Excel automation, clean data entry, or smart AI solutions — I'm ready to deliver.
+    </p>
+  </section>
+
+  <section>
+    <h2>🛠️ Skills</h2>
+    <ul>
+      <li>✔️ Data Entry & Excel Cleanup</li>
+      <li>✔️ Python Automation (File, Web, Excel, PDF)</li>
+      <li>✔️ AI Tools (ChatGPT, AI Image Generation, Script Writing)</li>
+      <li>✔️ Research, Summarizing, and Content Support using AI</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>💼 Services Offered</h2>
+    <ul>
+      <li>🔹 Manual & PDF Data Entry</li>
+      <li>🔹 Excel Report Automation using Python</li>
+      <li>🔹 AI Chatbot Setup / Content Creation</li>
+      <li>🔹 Data Cleanup & Formatting</li>
+    </ul>
+    <a href="#contact" class="btn">Hire Me</a>
+  </section>
+
+  <section id="contact">
+    <h2>📩 Contact</h2>
+    <p>You can reach me directly via Fiverr or other freelancing platforms.</p>
+    <p>Email (optional): amitfreelancer@example.com</p>
+  </section>
+
+  <footer>
+    &copy; 2025 AMIT | All rights reserved
+  </footer>
+
+</body>
+</html>
